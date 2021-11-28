@@ -1,0 +1,24 @@
+[submodule "Assets/Scenes/MasterGraduationProject-Scenes"]
+	path = Assets/Scenes/MasterGraduationProject-Scenes
+	url = git@github.com:SomieDNagrom/MasterGraduationProject-Scenes.git
+[submodule "Assets/Shaders/MasterGraduationProject-Shaders"]
+	path = Assets/Shaders/MasterGraduationProject-Shaders
+	url = git@github.com:SomieDNagrom/MasterGraduationProject-Shaders.git
+[submodule "Assets/Animations/MasterGraduationProject-Animations"]
+	path = Assets/Animations/MasterGraduationProject-Animations
+	url = git@github.com:SomieDNagrom/MasterGraduationProject-Animations.git
+[submodule "Assets/Graphics/MasterGraduationProject-Graphics"]
+	path = Assets/Graphics/MasterGraduationProject-Graphics
+	url = git@github.com:SomieDNagrom/MasterGraduationProject-Graphics.git
+[submodule "Assets/Materials/MasterGraduationProject-Materials"]
+	path = Assets/Materials/MasterGraduationProject-Materials
+	url = git@github.com:SomieDNagrom/MasterGraduationProject-Materials.git
+[submodule "Assets/Scripts/MasterGraduationProject-Scripts"]
+	path = Assets/Scripts/MasterGraduationProject-Scripts
+	url = git@github.com:SomieDNagrom/MasterGraduationProject-Scripts.git
+[submodule "Assets/Sounds/MasterGraduationProject-Sounds"]
+	path = Assets/Sounds/MasterGraduationProject-Sounds
+	url = git@github.com:SomieDNagrom/MasterGraduationProject-Sounds.git
+[submodule "Assets/Timelines/MasterGraduationProject-Timelines"]
+	path = Assets/Timelines/MasterGraduationProject-Timelines
+	url = git@github.com:SomieDNagrom/MasterGraduationProject-Timelines.git
